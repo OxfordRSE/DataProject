@@ -1,3 +1,3 @@
 # Feature 1
 
-Feature text
+This is updated text for this feature.
