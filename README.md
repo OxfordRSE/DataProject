@@ -11,7 +11,8 @@ This repository operationalises The Turing Way recommendations for structring pr
 This repository includes files and directories recommended for enabling reproducibility and collaboration in a project, as well as sharing of research objects.
 
 This repository follows the recommendations and guidance provided in *[The Turing Way](https://the-turing-way.netlify.app/welcome)* handbook to data science.
-When reusing this repository, please update information on your README page with information about your project.
+
+The repository has been further developed to add `Read the Docs` documentation.
 
 <!--If reusing this repository, delete this section -->
 ## About README
