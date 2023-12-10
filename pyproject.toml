@@ -1,5 +1,11 @@
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
+
 [project]
-name = "Data Science Project Template"
-authors = [{name = "Mihaela Duta", 
-            email = "mihaela.duta@dtc.ox.ac.uk"}]
+name = "data_project"
+authors = [
+  { name="Mihaela Duta", email="mihaela.duta@dtc.ox.ac.uk" },
+]
 dynamic = ["version", "description"]
+requires-python = ">=3.7"

@@ -2,6 +2,7 @@ alabaster==0.7.13
 Babel==2.13.1
 certifi==2023.11.17
 charset-normalizer==3.3.2
+-e git+https://github.com/OxfordRSE/DataProject.git@0daf9feca89a8172277ebf16bb4942f13af98490#egg=data_project
 docutils==0.20.1
 idna==3.6
 imagesize==1.4.1
