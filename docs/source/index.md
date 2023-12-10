@@ -2,5 +2,5 @@
 
 ```{toctree}
 features.md
-code.md
+code.rst
 ```
