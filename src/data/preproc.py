@@ -1,6 +1,6 @@
 
 def preproc_feature1(dset):
-    ''' Preprocess feature 1
+    """ Preprocess feature 1
 
     Args:
         dset: dataset
@@ -8,12 +8,12 @@ def preproc_feature1(dset):
     Returns:
         None
 
-    '''
+    """
     return None
 
 
 def preproc_feature2(dset):
-    ''' Preprocess feature 2
+    """ Preprocess feature 2
 
     Args:
         dset: dataset
@@ -21,5 +21,5 @@ def preproc_feature2(dset):
     Returns:
         None
 
-    '''
+    """
     return None
